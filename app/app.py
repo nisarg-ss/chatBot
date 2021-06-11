@@ -23,5 +23,5 @@ def get_bot_response():
     else:
         return official
 
-def runn():
+def run_app():
     app.run(debug=True)
